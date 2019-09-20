@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Howdy! Here's a project I created to show how basic testing works with Jest.
 
 ## Available Scripts
 
